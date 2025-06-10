@@ -1,8 +1,4 @@
----
-title: README
-
----
-
+建議用Hackmd看 https://hackmd.io/@bTirselxR2aOr7nVJhqHqg/HyYYuXqMge
 # 以Python重建chess game的實作
 ## 前言
 因為我本人很喜歡西洋棋，本身也是chess.com等級分(elo)1700的玩家。
